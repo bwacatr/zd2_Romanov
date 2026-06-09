@@ -15,7 +15,7 @@ namespace zd2_Romanov
             {
                 using (StreamReader sr = File.OpenText(fileName))
                 {
-                    while (!sr.EndOfStream)
+                    while (!sr.EndOfStream) 
                     {
                         string text = sr.ReadLine();
                         string[] array = text.Split(';');

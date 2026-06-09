@@ -69,6 +69,24 @@ namespace zd2_Romanov
             {
                 if (!string.IsNullOrWhiteSpace(TextBox_Phone.Text))
                 {
+                    foreach (var item in TextBox_Name.Text) // проверка на наличие цифр в имени
+                    {
+                        if (char.IsDigit(item))
+                        {
+                            MessageBox.Show("В имени и фамилии не должно быть цифр");
+                            return;
+                        }
+                    }
+
+                    foreach (var item in TextBox_Phone.Text) // проверка на наличие букв в номере телефона
+                    {
+                        if (char.IsLetter(item))
+                        {
+                            MessageBox.Show("В номере телефона не должно быть букв");
+                            return;
+                        }
+                    }
+
                     phoneBook.AddContact(TextBox_Name.Text, TextBox_Phone.Text);
                     UpdateGrid();
                 }

@@ -30,7 +30,7 @@ namespace zd2_Romanov
             contacts.Add(contact);
         }
 
-        public void AddContact(string name, string phone) // создание и добавление контакта в список 
+        public void AddContact(string name, string phone) // создание и добавление контакта в список с проверкой на совпадения
         {
             var count = from contact in contacts where contact.Phone == phone select contact;
             if (count.Count() == 0)
