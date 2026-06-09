@@ -1,0 +1,31 @@
+C:\Users\Анатолий\Desktop\задачи\zd2_Romanov-main\obj\Debug\zd2_Romanov.csproj.AssemblyReference.cache
+C:\Users\Анатолий\Desktop\задачи\zd2_Romanov-main\obj\Debug\MainWindow.g.cs
+C:\Users\Анатолий\Desktop\задачи\zd2_Romanov-main\obj\Debug\App.g.cs
+C:\Users\Анатолий\Desktop\задачи\zd2_Romanov-main\obj\Debug\zd2_Romanov_MarkupCompile.cache
+C:\Users\Анатолий\Desktop\задачи\zd2_Romanov-main\obj\Debug\zd2_Romanov_MarkupCompile.lref
+C:\Users\Анатолий\Desktop\задачи\zd2_Romanov-main\bin\Debug\zd2_Romanov.exe.config
+C:\Users\Анатолий\Desktop\задачи\zd2_Romanov-main\bin\Debug\zd2_Romanov.exe
+C:\Users\Анатолий\Desktop\задачи\zd2_Romanov-main\bin\Debug\zd2_Romanov.pdb
+C:\Users\Анатолий\Desktop\задачи\zd2_Romanov-main\obj\Debug\MainWindow.baml
+C:\Users\Анатолий\Desktop\задачи\zd2_Romanov-main\obj\Debug\zd2_Romanov.g.resources
+C:\Users\Анатолий\Desktop\задачи\zd2_Romanov-main\obj\Debug\zd2_Romanov.Properties.Resources.resources
+C:\Users\Анатолий\Desktop\задачи\zd2_Romanov-main\obj\Debug\zd2_Romanov.csproj.GenerateResource.cache
+C:\Users\Анатолий\Desktop\задачи\zd2_Romanov-main\obj\Debug\zd2_Romanov.csproj.CoreCompileInputs.cache
+C:\Users\Анатолий\Desktop\задачи\zd2_Romanov-main\obj\Debug\zd2_Romanov.exe
+C:\Users\Анатолий\Desktop\задачи\zd2_Romanov-main\obj\Debug\zd2_Romanov.pdb
+C:\Users\Анатолий\Desktop\задачи\zd2_Romanov-main\obj\Debug\zd2_Romanov.exe.config
+C:\Users\305-7\Desktop\Романов ПР-21\zd2_Romanov-main\bin\Debug\zd2_Romanov.exe.config
+C:\Users\305-7\Desktop\Романов ПР-21\zd2_Romanov-main\bin\Debug\zd2_Romanov.exe
+C:\Users\305-7\Desktop\Романов ПР-21\zd2_Romanov-main\bin\Debug\zd2_Romanov.pdb
+C:\Users\305-7\Desktop\Романов ПР-21\zd2_Romanov-main\obj\Debug\zd2_Romanov.csproj.AssemblyReference.cache
+C:\Users\305-7\Desktop\Романов ПР-21\zd2_Romanov-main\obj\Debug\MainWindow.g.cs
+C:\Users\305-7\Desktop\Романов ПР-21\zd2_Romanov-main\obj\Debug\App.g.cs
+C:\Users\305-7\Desktop\Романов ПР-21\zd2_Romanov-main\obj\Debug\zd2_Romanov_MarkupCompile.cache
+C:\Users\305-7\Desktop\Романов ПР-21\zd2_Romanov-main\obj\Debug\zd2_Romanov_MarkupCompile.lref
+C:\Users\305-7\Desktop\Романов ПР-21\zd2_Romanov-main\obj\Debug\MainWindow.baml
+C:\Users\305-7\Desktop\Романов ПР-21\zd2_Romanov-main\obj\Debug\zd2_Romanov.g.resources
+C:\Users\305-7\Desktop\Романов ПР-21\zd2_Romanov-main\obj\Debug\zd2_Romanov.Properties.Resources.resources
+C:\Users\305-7\Desktop\Романов ПР-21\zd2_Romanov-main\obj\Debug\zd2_Romanov.csproj.GenerateResource.cache
+C:\Users\305-7\Desktop\Романов ПР-21\zd2_Romanov-main\obj\Debug\zd2_Romanov.csproj.CoreCompileInputs.cache
+C:\Users\305-7\Desktop\Романов ПР-21\zd2_Romanov-main\obj\Debug\zd2_Romanov.exe
+C:\Users\305-7\Desktop\Романов ПР-21\zd2_Romanov-main\obj\Debug\zd2_Romanov.pdb

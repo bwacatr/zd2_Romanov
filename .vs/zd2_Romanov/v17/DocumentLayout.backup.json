@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0410\u043D\u0430\u0442\u043E\u043B\u0438\u0439\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\zd2_Romanov-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5312C89-B6EC-401A-8F65-BFB462EB127D}|zd2_Romanov.csproj|c:\\users\\\u0430\u043D\u0430\u0442\u043E\u043B\u0438\u0439\\desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\zd2_romanov-main\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{F5312C89-B6EC-401A-8F65-BFB462EB127D}|zd2_Romanov.csproj|solutionrelative:mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5312C89-B6EC-401A-8F65-BFB462EB127D}|zd2_Romanov.csproj|c:\\users\\\u0430\u043D\u0430\u0442\u043E\u043B\u0438\u0439\\desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\zd2_romanov-main\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F5312C89-B6EC-401A-8F65-BFB462EB127D}|zd2_Romanov.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5312C89-B6EC-401A-8F65-BFB462EB127D}|zd2_Romanov.csproj|c:\\users\\\u0430\u043D\u0430\u0442\u043E\u043B\u0438\u0439\\desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\zd2_romanov-main\\phonebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5312C89-B6EC-401A-8F65-BFB462EB127D}|zd2_Romanov.csproj|solutionrelative:phonebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5312C89-B6EC-401A-8F65-BFB462EB127D}|zd2_Romanov.csproj|c:\\users\\\u0430\u043D\u0430\u0442\u043E\u043B\u0438\u0439\\desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\zd2_romanov-main\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5312C89-B6EC-401A-8F65-BFB462EB127D}|zd2_Romanov.csproj|solutionrelative:contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5312C89-B6EC-401A-8F65-BFB462EB127D}|zd2_Romanov.csproj|c:\\users\\\u0430\u043D\u0430\u0442\u043E\u043B\u0438\u0439\\desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\zd2_romanov-main\\phonebookloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5312C89-B6EC-401A-8F65-BFB462EB127D}|zd2_Romanov.csproj|solutionrelative:phonebookloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0430\u0442\u043E\u043B\u0438\u0439\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\zd2_Romanov-main\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0430\u0442\u043E\u043B\u0438\u0439\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\zd2_Romanov-main\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T16:37:45.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0430\u0442\u043E\u043B\u0438\u0439\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\zd2_Romanov-main\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0430\u0442\u043E\u043B\u0438\u0439\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\zd2_Romanov-main\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-08T16:33:44.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PhoneBookLoader.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0430\u0442\u043E\u043B\u0438\u0439\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\zd2_Romanov-main\\PhoneBookLoader.cs",
+              "RelativeDocumentMoniker": "PhoneBookLoader.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0430\u0442\u043E\u043B\u0438\u0439\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\zd2_Romanov-main\\PhoneBookLoader.cs",
+              "RelativeToolTip": "PhoneBookLoader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T16:33:36.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0430\u0442\u043E\u043B\u0438\u0439\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\zd2_Romanov-main\\Contact.cs",
+              "RelativeDocumentMoniker": "Contact.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0430\u0442\u043E\u043B\u0438\u0439\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\zd2_Romanov-main\\Contact.cs",
+              "RelativeToolTip": "Contact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T16:33:35.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PhoneBook.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0430\u0442\u043E\u043B\u0438\u0439\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\zd2_Romanov-main\\PhoneBook.cs",
+              "RelativeDocumentMoniker": "PhoneBook.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0430\u0442\u043E\u043B\u0438\u0439\\Desktop\\\u0437\u0430\u0434\u0430\u0447\u0438\\zd2_Romanov-main\\PhoneBook.cs",
+              "RelativeToolTip": "PhoneBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T16:33:34.598Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
