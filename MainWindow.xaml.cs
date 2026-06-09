@@ -82,7 +82,7 @@ namespace zd2_Romanov
 
         private void Exit_Click(object sender, RoutedEventArgs e) // закрытие программы через кнопку выход
         {
-            Exit();
+            this.Close();
         }
 
         private void Delete_Click(object sender, RoutedEventArgs e) //Удаление выбранного контакта
@@ -129,16 +129,18 @@ namespace zd2_Romanov
 
         
 
-        private void Exit() // метод закрытия программы
-        {
-            MessageBoxResult msgBox = MessageBox.Show("Вы действительно хотите закрыть программу?", "Выход", MessageBoxButton.YesNo, MessageBoxImage.Question);
-            if (msgBox == MessageBoxResult.Yes)
-                this.Close();
-        }
+      
 
         private void Grid_SelectionChanged(object sender, SelectionChangedEventArgs e) // вывод индекса выделенного контакта
         {
             TextBox_Index.Text = Grid.SelectedIndex.ToString();
+        }
+
+        private void Window_Closing(object sender, System.ComponentModel.CancelEventArgs e) // Вывод сообщения при закрытии программы
+        {
+            MessageBoxResult msgBox = MessageBox.Show("Вы действительно хотите закрыть программу?", "Выход", MessageBoxButton.YesNo, MessageBoxImage.Question);
+            if (msgBox == MessageBoxResult.No)
+                e.Cancel = true;
         }
     }
 }

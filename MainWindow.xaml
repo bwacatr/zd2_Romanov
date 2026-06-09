@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:zd2_Romanov"
         xmlns:System="clr-namespace:System;assembly=mscorlib" x:Class="zd2_Romanov.MainWindow"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="747">
+        Title="MainWindow" Height="450" Width="747" Closing="Window_Closing">
     <Grid>
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="801"/>
